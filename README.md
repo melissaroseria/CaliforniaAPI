@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/melissaroseria/CaliforniaAPI/refs/heads/main/assets/png/logo.png" alt="MiUnlock Banner" width="100"/>
+  <img src="https://raw.githubusercontent.com/melissaroseria/CaliforniaAPI/refs/heads/main/assets/png/logo1.png" alt="MiUnlock Banner" width="280"/>
 </p>
 
 # 🔓 FORUM APİ

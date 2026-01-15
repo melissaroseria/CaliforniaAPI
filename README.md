@@ -78,3 +78,12 @@ TXT kayıt dosyası
 ```
 
 ---
+
+## 🎶 Festival Şarkısı
+
+Bu projeye özel bir şarkı hediyesi! 🌹  
+Dinlemek için aşağıdaki bağlantıya tıklayın:
+
+[▶️ CaliforniaAPI Theme Song](https://github.com/melissaroseria/CaliforniaAPI/blob/main/assets/song/22.mp3)
+
+> Projeyi çalıştırırken bu şarkıyı açın, festival havasını tam yaşayın!

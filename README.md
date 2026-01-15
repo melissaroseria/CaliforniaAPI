@@ -88,4 +88,11 @@ Dinlemek için aşağıdaki bağlantıya tıklayın:
 
 > Projeyi çalıştırırken bu şarkıyı açın, festival havasını tam yaşayın!
 
-[![Play Song](https://img.shields.io/badge/Play-CaliforniaAPI%20Song-blue?style=for-the-badge)](https://github.com/melissaroseria/CaliforniaAPI/blob/main/assets/song/22.mp3)
+## 🎶 CaliforniaAPI Theme Song
+
+> Projeyi çalıştırmadan önce bu şarkıyı aç, festival başlasın 🌹
+
+<audio controls>
+  <source src="https://raw.githubusercontent.com/melissaroseria/CaliforniaAPI/main/assets/song/22.mp3" type="audio/mpeg">
+  Tarayıcınız ses oynatıcıyı desteklemiyor.
+</audio>

@@ -8,7 +8,7 @@
 OPSİYONEL
 ```
 
-> Genelde Forumlara Kaydolmak Eziyet Dijital Krallıklarına Çiğne Gez APİ Ve Scripit Mevcuttur
+> Genelde Forumlara Kaydolmak Eziyet Sende Dijital Krallıklarına Çiğne Ve Acımasızca Ayrıca APİ Ve Scripit Mevcuttur
 > Artık Böyle Bir Derdiniz Mevcut Değildir
 
 
@@ -66,15 +66,11 @@ https://viosrio.serv00.net/get/reg.php?action=bulk&count=5
 🧭 Proje Yapısı
 
 ```
-CaliforniaAPI/
-
 Kayıt API
 
 Dökümanlar
 
-Script
-
-TXT kayıt dosyası
+PHP Script
 ```
 
 ---
